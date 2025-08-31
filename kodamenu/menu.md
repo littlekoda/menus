@@ -28,7 +28,7 @@
 
 #DESSERTS
 
-- Banana Split | $ 9.00|banana, vanilla ice cream, chocolate sauce, whipped cream, cherry
+- Banana Split | $ 9.00|banana, vanilla ice cream, chocolate sauce, whipped cream, cherry | Banana-Split.png
 - Cherry Pie | $ 2.00|shortcrust pastry, cherry filling, sugar glaze | Choco-Boudoir.png
 - Choco Boudoir | $ 9.00|chocolate sponge, mascarpone cream, cocoa powder | Cookie-Delight.png
 - Cookie Delight | $ 9.00|crushed cookies, vanilla custard, whipped cream | Cookie-Delight.png
