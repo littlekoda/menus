@@ -23,16 +23,16 @@
 - Green Salad | $ 2.00|mixed lettuce, cucumber, tomato, vinaigrette
 - Coleslaw | $ 2.00|shredded cabbage, carrot, mayonnaise, vinegar, sugar
 - Jacket Potato | $ 3.00|baked potato, butter, chives, optional cheese
-- Onion Rings | $ 4.00|sliced onion, beer batter, frying oil, salt
-- Fried Beans | $ 3.00|white beans, garlic, paprika, olive oil, parsley
+- Onion Rings | $ 4.00|sliced onion, beer batter, frying oil, salt | Onion-Rings.png
+- Fried Beans | $ 3.00|white beans, garlic, paprika, olive oil, parsley | Fried-Beans.png
 
 #DESSERTS
 
 - Banana Split | $ 9.00|banana, vanilla ice cream, chocolate sauce, whipped cream, cherry
-- Cherry Pie | $ 2.00|shortcrust pastry, cherry filling, sugar glaze
-- Choco Boudoir | $ 9.00|chocolate sponge, mascarpone cream, cocoa powder
+- Cherry Pie | $ 2.00|shortcrust pastry, cherry filling, sugar glaze | Choco-Boudoir.png
+- Choco Boudoir | $ 9.00|chocolate sponge, mascarpone cream, cocoa powder | Cookie-Delight.png
 - Cookie Delight | $ 9.00|crushed cookies, vanilla custard, whipped cream | Cookie-Delight.png
-- Apple Pie | $ 6.00|pastry, spiced apple filling, cinnamon, sugar dusting | Apple Pie.png
+- Apple Pie | $ 6.00|pastry, spiced apple filling, cinnamon, sugar dusting | Apple-Pie.png
 - Chocolate Muffin | $ 1.50|cocoa batter, chocolate chips, sugar | Chocolate-Muffin.png
 
 #DRINKS
