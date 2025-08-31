@@ -3,7 +3,7 @@
 #STARTERS
 
 - Greek Salad | $ 5.00|tomato, cucumber, red onion, olives, feta, oregano, olive oil | Greek-Salad.png
-- Tortilla Española | $ 4.50|egg, potato, onion, olive oil, salt | Tortilla-Española.png
+- Tortilla Española | $ 4.50|egg, potato, onion, olive oil, salt | Tortilla-Espanola.png
 - Olivas Rellenas | $ 6.00|pitted green olives, pepper or anchovy filling, brine | Olivas-Rellenas.png
 - Verduras con Olivada | $ 6.50|grilled vegetables, olive-tapenade dressing | Verduras-con-Olivada.png
 - Lasagne | $ 3.00|pasta sheets, beef ragù, béchamel, tomato sauce, cheese | Lasagne.png
