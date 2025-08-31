@@ -33,7 +33,7 @@
 - Choco Boudoir | $ 9.00|chocolate sponge, mascarpone cream, cocoa powder
 - Cookie Delight | $ 9.00|crushed cookies, vanilla custard, whipped cream
 - Apple Pie | $ 6.00|pastry, spiced apple filling, cinnamon, sugar dusting
-- Chocolate Muffin | $ 1.50|cocoa batter, chocolate chips, sugar
+- Chocolate Muffin | $ 1.50|cocoa batter, chocolate chips, sugar | Chocolate-Muffin.png
 
 #DRINKS
 
