@@ -1,0 +1,19 @@
+{
+  "dates": [
+    "es20250912",
+    "es20250911"
+  ],
+  "trades": {
+    "es20250912": [
+      "trade1",
+      "trade2",
+      "trade3",
+      "trade4",
+      "trade5",
+      "trade6"
+    ],
+    "es20250911": [
+      "trade1"
+    ]
+  }
+}
