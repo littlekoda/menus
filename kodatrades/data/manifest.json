@@ -7,12 +7,17 @@
       "trades": [
         {
           "tradeNo": "Trade1",
-          "pnl": "138.68",
+          "pnl": "492.35",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade2",
-          "pnl": "287.96",
+          "pnl": "376.34",
+          "image": "chart5m.png"
+        },
+        {
+          "tradeNo": "Trade3",
+          "pnl": "136.26",
           "image": "chart5m.png"
         }
       ]
@@ -23,37 +28,37 @@
       "trades": [
         {
           "tradeNo": "Trade1",
-          "pnl": "395.40",
+          "pnl": "140.37",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade2",
-          "pnl": "-81.71",
+          "pnl": "87.60",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade3",
-          "pnl": "-36.58",
+          "pnl": "-54.70",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade4",
-          "pnl": "209.98",
+          "pnl": "187.68",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade5",
-          "pnl": "213.38",
+          "pnl": "-51.75",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade6",
-          "pnl": "446.96",
+          "pnl": "273.74",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade7",
-          "pnl": "69.40",
+          "pnl": "228.90",
           "image": "chart5m.png"
         }
       ]
@@ -64,12 +69,12 @@
       "trades": [
         {
           "tradeNo": "Trade1",
-          "pnl": "92.85",
+          "pnl": "198.03",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade2",
-          "pnl": "445.57",
+          "pnl": "586.93",
           "image": "chart5m.png"
         }
       ]
