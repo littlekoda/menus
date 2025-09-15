@@ -2,42 +2,53 @@
   "githubRoot": "https://raw.githubusercontent.com/littlekoda/menus/main/kodatrades/data",
   "days": [
     {
+      "key": "es20250915",
+      "date": "9/15/2025 (Mon.)",
+      "trades": [
+        {
+          "tradeNo": "Trade1",
+          "pnl": "252.55",
+          "image": "chart5m.png"
+        }
+      ]
+    },
+    {
       "key": "es20250912",
       "date": "9/12/2025 (Fri.)",
       "trades": [
         {
           "tradeNo": "Trade1",
-          "pnl": "-97.31",
+          "pnl": "419.02",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade2",
-          "pnl": "367.91",
+          "pnl": "575.62",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade3",
-          "pnl": "297.65",
+          "pnl": "219.49",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade4",
-          "pnl": "523.65",
+          "pnl": "-26.05",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade5",
-          "pnl": "224.54",
+          "pnl": "591.27",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade6",
-          "pnl": "403.61",
+          "pnl": "230.50",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade7",
-          "pnl": "301.14",
+          "pnl": "415.95",
           "image": "chart5m.png"
         }
       ]
@@ -48,12 +59,12 @@
       "trades": [
         {
           "tradeNo": "Trade1",
-          "pnl": "345.76",
+          "pnl": "-76.29",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade2",
-          "pnl": "183.18",
+          "pnl": "87.90",
           "image": "chart5m.png"
         }
       ]
