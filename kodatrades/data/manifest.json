@@ -2,27 +2,38 @@
   "githubRoot": "https://raw.githubusercontent.com/littlekoda/menus/main/kodatrades/data",
   "days": [
     {
+      "key": "es20250917",
+      "date": "9/17/2025 (Wed.)",
+      "trades": [
+        {
+          "tradeNo": "Trade1",
+          "pnl": "29.28",
+          "image": "chart5m.png"
+        }
+      ]
+    },
+    {
       "key": "es20250915",
       "date": "9/15/2025 (Mon.)",
       "trades": [
         {
           "tradeNo": "Trade1",
-          "pnl": "283.37",
+          "pnl": "158.03",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade2",
-          "pnl": "395.70",
+          "pnl": "516.15",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade3",
-          "pnl": "558.03",
+          "pnl": "351.66",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade4",
-          "pnl": "75.61",
+          "pnl": "207.59",
           "image": "chart5m.png"
         }
       ]
@@ -33,37 +44,37 @@
       "trades": [
         {
           "tradeNo": "Trade1",
-          "pnl": "329.49",
+          "pnl": "213.64",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade2",
-          "pnl": "391.53",
+          "pnl": "319.07",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade3",
-          "pnl": "380.50",
+          "pnl": "441.30",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade4",
-          "pnl": "29.56",
+          "pnl": "589.21",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade5",
-          "pnl": "155.45",
+          "pnl": "503.45",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade6",
-          "pnl": "276.44",
+          "pnl": "518.13",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade7",
-          "pnl": "159.40",
+          "pnl": "-81.14",
           "image": "chart5m.png"
         }
       ]
@@ -74,12 +85,12 @@
       "trades": [
         {
           "tradeNo": "Trade1",
-          "pnl": "284.79",
+          "pnl": "-30.82",
           "image": "chart5m.png"
         },
         {
           "tradeNo": "Trade2",
-          "pnl": "541.44",
+          "pnl": "555.53",
           "image": "chart5m.png"
         }
       ]
